@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/josephhu0970/TestMDMS/_apis/build/status/HtyWspJosephHu.pipelines-go)](https://dev.azure.com/josephhu0970/TestMDMS/_build/latest?definitionId=1)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
